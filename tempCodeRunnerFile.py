@@ -1,0 +1,1 @@
+post_to_delete = db.get_or_404(BlogPost,post_id)
